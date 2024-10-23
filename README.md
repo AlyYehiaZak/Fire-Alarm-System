@@ -1,1 +1,2 @@
-# Fire-Alarm-System
+Ada Spark project implements a Fire Alarm System designed to enhance safety in buildings. The system is programmed to detect elevated temperatures that exceed predefined thresholds, triggering alarms and notifications to alert occupants.
+Document accompanies the project, detailing functional requirements, a functional block diagram, an FMECA worksheet, fault tree analysis, and a reliability block diagram to support the development and understanding of the system.
